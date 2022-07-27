@@ -1,6 +1,6 @@
 # Unique times, unequal mobilities. Daily mobility patterns during the de-escalation of the COVID-19 pandemic in Spain.
 
-This is a repository where you can find the data and code of our paper *Unique times, unequal mobilities. Daily mobility patterns during the de-escalation of the COVID-19 pandemic in Spain by Padilla-Pozo, Á., Torrado, J.M., Palomares-Linares, I. & Duque-Calvache, R.*
+This is a repository where you can find the data and code of our paper *Unique times, unequal mobilities. Daily mobility during the de-escalation of the COVID-19 pandemic in Spain* by **Padilla-Pozo, Á., Torrado, J.M., Palomares-Linares, I. & Duque-Calvache, R.**
 
 * The file XXXX contains our data  
 * Files XXXXXXXXX contain our code.
